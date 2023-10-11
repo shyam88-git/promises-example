@@ -1,0 +1,29 @@
+[{
+        "username": "ksachin",
+        "firstName": "Sachin",
+        "lastName": "Kapoor",
+        "profileURL": "img/sachin.jpg",
+        "email": "sachin.k@scalive.in"
+    },
+    {
+        "username": "aftaab",
+        "firstName": "Aftaab",
+        "lastName": "Ahmed",
+        "profileURL": "img/aftaab.png",
+        "email": "md.aftaab@scalive.in"
+    },
+    {
+        "username": "paramjeet",
+        "firstName": "Paramjeet",
+        "lastName": "Saini",
+        "profileURL": "img/paramjeet.png",
+        "email": "saini.param@scalive.in"
+    },
+    {
+        "username": "afroz",
+        "firstName": "Afroz",
+        "lastName": "Alam",
+        "profileURL": "img/afroz.jpg",
+        "email": "afroz.alam@scalive.in"
+    }
+]
